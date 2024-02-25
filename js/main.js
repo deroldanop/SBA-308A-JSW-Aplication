@@ -1,3 +1,4 @@
+import { searchCatsByBreed, fetchRandomCats } from './async.js';
 import { displayCats } from './disp.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
